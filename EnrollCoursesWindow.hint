@@ -1,0 +1,32 @@
+import javax.swing.*;
+import java.awt.*;
+
+public class EnrollCoursesWindow extends JFrame {
+    public EnrollCoursesWindow() {
+        setTitle("Enroll in Courses");
+        setSize(400, 300);
+        setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+        setLocationRelativeTo(null);
+
+        JPanel panel = new JPanel();
+        panel.setLayout(new GridLayout(5, 1));
+
+        // Add components for course enrollment
+        panel.add(new JLabel("Course 1"));
+        panel.add(new JLabel("Course 2"));
+        panel.add(new JLabel("Course 3"));
+        panel.add(new JLabel("Course 4"));
+        panel.add(new JLabel("Course 5"));
+
+        add(panel);
+    }
+
+    public static void main(String[] args) {
+        SwingUtilities.invokeLater(new Runnable() {
+            @Override
+            public void run() {
+                new EnrollCoursesWindow().setVisible(true);
+            }
+        });
+    }
+}
