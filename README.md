@@ -1,6 +1,6 @@
-# Student Management System  
+# School Management System  
 
-This is a **Student Management System** developed for the **Enterprise Application Development** module. The system allows for efficient management of users, courses, and profile details.  
+This is a **School Management System** developed for the **Enterprise Application Development** module. The system allows for efficient management of users, courses, and profile details.  
 
 ## Features  
 - **User Management**: Add, update, delete, and view user details.  
