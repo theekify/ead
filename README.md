@@ -34,4 +34,5 @@ This is a **Student Management System** developed for the **Enterprise Applicati
 - Navigate to the respective modules (Users, Courses, Profile) using the menu.
 - Perform CRUD (Create, Read, Update, Delete) operations for users and courses.
 
-
+# License
+**This project is licensed under the MIT License.**
