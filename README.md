@@ -24,12 +24,12 @@ This is a **Student Management System** developed for the **Enterprise Applicati
 - Open the project in NetBeans.
 - Ensure all dependencies are installed.
 - Run the application from the IDE.
-**or**
+- **or**
 - Using the Precompiled JAR File
 - A precompiled JAR file (StudentManagementSystem.jar) is included in the /dist directory.
 - To run the application via the JAR file, ensure that you have Java installed on your system, then use the following command: **java -jar MyApplication.jar**
 
-4. **How to Use**
+# How to Use
 - Log in with admin or user credentials.
 - Navigate to the respective modules (Users, Courses, Profile) using the menu.
 - Perform CRUD (Create, Read, Update, Delete) operations for users and courses.
