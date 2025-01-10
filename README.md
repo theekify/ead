@@ -21,7 +21,7 @@ This is a **School Management System** developed for the **Enterprise Applicatio
 - Import the provided SQL file (LMS Database.sql) into MySQL.
 
 3. **Run the Application**
-- Open the project in NetBeans.
+- Open the project in VS Code / NetBeans.
 - Ensure all dependencies are installed.
 - Run the application from the IDE.
 - **or**
