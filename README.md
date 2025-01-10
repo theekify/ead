@@ -26,7 +26,7 @@ This is a **School Management System** developed for the **Enterprise Applicatio
 - Run the application from the IDE.
 - **or**
 - Using the Precompiled JAR File
-- A precompiled JAR file (StudentManagementSystem.jar) is included in the /dist directory.
+- A precompiled JAR file (MyApplication.jar) is included in the /dist directory.
 - To run the application via the JAR file, ensure that you have Java installed on your system, then use the following command: **java -jar MyApplication.jar**
 
 # How to Use
