@@ -8,7 +8,7 @@ This is a **School Management System** developed for the **Enterprise Applicatio
 - **Profile Management**: Update profile details of users.  
 
 ## Technologies Used  
-- **Java**: For backend development and core functionality.  
+- **Java**: For backend development and core functionality(JDK 23) .  
 - **MySQL**: For database storage and management.  
 - **NetBeans**: As the primary IDE for development.  
 - **VS Code**: For additional code editing.  
