@@ -8,12 +8,12 @@ public class DBConnection {
     public static Connection getConnection() {
         Connection connection = null;
         try {
-            // Update the URL, username, and password to match your database credentials
-            String url = "jdbc:mysql://localhost:3306/LMS"; // Use your database name
-            String username = "root"; // Replace with your database username
-            String password = "orypubit"; // Replace with your database password
+            
+            String url = "jdbc:mysql://localhost:3306/LMS"; 
+            String username = "root";
+            String password = "orypubit"; 
 
-            // Load MySQL JDBC Driver
+            
             Class.forName("com.mysql.cj.jdbc.Driver");
             connection = DriverManager.getConnection(url, username, password);
             System.out.println("Database connection established successfully.");
